@@ -4,10 +4,11 @@
 [![Years Badge](https://badges.pufler.dev/years/nicokempe)]()
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/nicokempe)]()
 
-- 🔭 I’m currently working on **[@project-dynasty](https://www.github.com/project-dynasty)** and I was working on **[@verany-network](https://www.github.com/verany-network)**
-- 🌱 I try to take advantage of new opportunities and test the latest technologies. 
-- 💬 If you have any questions then I will be happy to answer them! 
-- 📫 Contact: **kontakt@nicokempe.de**
+I am a German **hobby programmer** who enjoys getting to know new technologies in his spare time and working with them in both small and larger projects.
+To get to know me a little better, here are some facts about me: 
+- In between my many small projects, I mainly work on a currently still secret project called **[Project: Dynasty](https://www.github.com/project-dynasty)**.
+- Outside of my free time, I am currently in 12th grade at a business vocational school in Nürtingen. (**[Schulwerk Mitte](https://schulwerk-mitte.de/)**)
+- In addition to developing software, I am interested in **politics** and **history**.
 
 ## Contact options 
 Generally speaking, the quickest way to reach me is to send an email to my contact mail. However, here are some other contact options that might be useful or where my content might just be interesting. My email adress is **[kontakt@nicokempe.de](mailto:kontakt@nicokempe.de)**.
