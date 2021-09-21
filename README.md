@@ -1,6 +1,4 @@
 ![profile-banner](https://github.com/nicokempe/nicokempe/blob/032bead7d2a096787e789ad56041a1eeb9efe555/header.png)
-[![Visits Badge](https://badges.pufler.dev/visits/nicokempe/git-badges)](https://badges.pufler.dev)
-
 
 - 🔭 I’m currently working on **[@project-dynasty](https://www.github.com/project-dynasty)** and I was working on **[@verany-network](https://www.github.com/verany-network)**
 - 🌱 I try to take advantage of new opportunities and test the latest technologies. 
