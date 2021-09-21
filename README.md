@@ -5,4 +5,4 @@
 - 💬 If you have any questions then I will be happy to answer them! 
 - 📫 Contact: **kontakt@nicokempe.de**
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nicokempe&count_private=true&show_icons=true&theme=dark)
+![contribution-graph](https://activity-graph.herokuapp.com/graph?username=nicokempe&theme=github)
