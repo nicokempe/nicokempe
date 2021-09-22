@@ -10,7 +10,8 @@ To get to know me a little better, here are some facts about me:
 - Outside of my free time, I am currently in 12th grade at a business vocational school in Nürtingen. (**[Schulwerk Mitte](https://schulwerk-mitte.de/)**)
 - In addition to developing software, I am interested in **politics** and **history**.
 
-## Here are some technologies i like to work with:
+### Here are some technologies i like to work with:
+
 Of course, I am not completely familiar with each of the following technologies, but I have usually worked with most of them for at least weeks and was able to gain a first impression of them. I use other technologies such as Unity more often. 
 
 [![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)]()
@@ -38,7 +39,18 @@ Of course, I am not completely familiar with each of the following technologies,
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 
-## Contact options & other profiles
+### GitHub Analytics:
+
+<p align="center">
+<a href="https://github.com/nicokempe">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicokempe&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicokempe&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+
+### Contact options & other profiles:
+
 Generally speaking, the quickest way to reach me is to send an email to my contact mail. However, here are some other contact options that might be useful or where my content might just be interesting. My email adress is **[kontakt@nicokempe.de](mailto:kontakt@nicokempe.de)**.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/NicoVRNY)
