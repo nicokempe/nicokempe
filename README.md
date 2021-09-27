@@ -66,7 +66,6 @@ Generally speaking, the quickest way to reach me is to send an email to my conta
 <p align="center">
   <a href="https://t.me/NicoVRNY"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
   <a href="https://discord.gg/t9frQmmqPe"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
-  <a href="ts3server://nicokempe.de"><img src="https://img.shields.io/badge/TeamSpeack-2580C3?style=for-the-badge&amp;logo=teamspeak&amp;logoColor=white" alt="TeamSpeak"></a>
   <a href="https://twitter.com/NicoVRNY"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"></a>
   <a href="https://gitlab.com/nicokempe"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab"></a>
   <a href="https://open.spotify.com/user/ayp3biiz4ckcwzwnmbo3ic87a?si=79af00287d8047d6"><img src="https://img.shields.io/badge/Spotify-1ED760?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt="Spotify"></a>
