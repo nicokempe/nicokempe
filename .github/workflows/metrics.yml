@@ -17,7 +17,7 @@ jobs:
 
           # Options
           user: nicokempe
-          template: terminal
+          template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
           plugin_activity: yes
