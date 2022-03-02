@@ -2,11 +2,9 @@
 
 [![Repos Badge](https://badges.pufler.dev/repos/nicokempe)]()
 [![Years Badge](https://badges.pufler.dev/years/nicokempe)]()
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/nicokempe)]()
 
 I am a German **hobby programmer** who enjoys getting to know new technologies in his spare time and working with them in both small and larger projects.
 To get to know me a little better, here are some facts about me: 
-- In between my many small projects, I mainly work on a currently still secret project called **[Project: Dynasty](https://www.github.com/project-dynasty)**.
 - Outside of my free time, I am currently in 12th grade at a business vocational school in Nürtingen. (**[Schulwerk Mitte](https://schulwerk-mitte.de/)**)
 - In addition to developing software, I am interested in **politics** and **history**.
 
