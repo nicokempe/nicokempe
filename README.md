@@ -62,9 +62,9 @@ Of course, I am not completely familiar with each of the following technologies,
 
 Generally speaking, the quickest way to reach me is to send an email to my contact mail. However, here are some other contact options that might be useful or where my content might just be interesting. My email adress is **[kontakt@nicokempe.de](mailto:kontakt@nicokempe.de)**.
 <p align="center">
-  <a href="https://t.me/NicoVRNY"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
+  <a href="https://t.me/nicokempe"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="Telegram"></a>
   <a href="https://discord.gg/t9frQmmqPe"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&amp;logo=discord&amp;logoColor=white" alt="Discord"></a>
-  <a href="https://twitter.com/NicoVRNY"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"></a>
+  <a href="https://twitter.com/nicohasstnazis"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter"></a>
   <a href="https://gitlab.com/nicokempe"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white" alt="GitLab"></a>
   <a href="https://open.spotify.com/user/ayp3biiz4ckcwzwnmbo3ic87a?si=79af00287d8047d6"><img src="https://img.shields.io/badge/Spotify-1ED760?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white" alt="Spotify"></a>
   <a href="https://twitch.tv/nicovrny"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&amp;logo=twitch&amp;logoColor=white" alt="Twitch"></a>
