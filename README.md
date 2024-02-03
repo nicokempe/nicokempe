@@ -1,5 +1,6 @@
 <p align="center">
   <samp>
+    <a href="https://www.nicokempe.eu">my company</a> .
     <a href="https://www.nicokempe.de">portfolio</a> .
     <a href="https://www.nicokempe.de/about">about</a> .
     <a href="https://x.com/nico_kempe">x</a> .
